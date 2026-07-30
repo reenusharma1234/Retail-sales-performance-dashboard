@@ -23,5 +23,3 @@ This project analyzes retail sales data to identify regional performance, catego
 Business Objective
 The dashboard helps management monitor performance trends and make data-driven decisions to improve profitability.
 
-Dashboard Preview
-(Add screenshots here)
